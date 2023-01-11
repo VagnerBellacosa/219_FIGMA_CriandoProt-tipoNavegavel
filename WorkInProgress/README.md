@@ -32,7 +32,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando um Protótipo Navegável](https://web.dio.me/lab/criando-um-prototipo-navegavel/learning/19bcd735-281a-4b29-8d62-6baeef924598)[Entendendo o Desafio](https://web.dio.me/lab/criando-um-prototipo-navegavel/learning/3cefb00d-8cb1-47bc-8586-877d05379616)
+- [Criando um Protótipo Navegável](https://web.dio.me/lab/criando-um-prototipo-navegavel/learning/19bcd735-281a-4b29-8d62-6baeef924598)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-um-prototipo-navegavel/learning/3cefb00d-8cb1-47bc-8586-877d05379616)
 
 
 
